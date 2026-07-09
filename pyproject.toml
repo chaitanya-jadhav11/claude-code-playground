@@ -1,0 +1,14 @@
+[project]
+name = "claude-code-playground"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.139.0",
+    "psycopg2>=2.9.12",
+    "slowapi>=0.1.10",
+    "sqlalchemy>=2.0.51",
+    "uvicorn>=0.50.2",
+]
