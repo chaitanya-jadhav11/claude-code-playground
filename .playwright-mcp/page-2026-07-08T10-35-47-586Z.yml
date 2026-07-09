@@ -1,0 +1,313 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: https://netninja.dev
+        - menu [ref=e8]:
+          - listitem [ref=e9]:
+            - link "whatshot Net Ninja Pro" [ref=e10] [cursor=pointer]:
+              - /url: /p/net-ninja-pro/
+          - listitem [ref=e11]:
+            - link "video_library All Courses" [ref=e12] [cursor=pointer]:
+              - /url: /courses
+          - listitem [ref=e13]:
+            - link "library_books Community NEW" [ref=e14] [cursor=pointer]:
+              - /url: https://net-ninja1.community.teachable.com/
+          - listitem [ref=e15]:
+            - link "open_in_new YouTube Channel" [ref=e16] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+          - listitem [ref=e17]:
+            - link "login Login" [ref=e18] [cursor=pointer]:
+              - /url: /sign_in
+          - listitem [ref=e19]:
+            - link "person Sign Up" [ref=e20] [cursor=pointer]:
+              - /url: /sign_up
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - paragraph [ref=e25]:
+        - text: Get instant access to
+        - strong [ref=e26]: every course
+        - text: with a
+        - strong [ref=e27]: Net Ninja Pro subscription
+        - text: .
+        - strong [ref=e28]: Just $9/mo.
+        - link "Learn More >" [ref=e29] [cursor=pointer]:
+          - /url: /p/net-ninja-pro/
+      - generic [ref=e31]:
+        - heading "Black-Belt Your coding skills" [level=2] [ref=e32]:
+          - generic [ref=e33]: Black-Belt
+          - generic [ref=e34]: Your coding skills
+        - paragraph [ref=e35]: Get access to over 2,000 premium coding tutorials.
+        - link "Browse All Courses >" [ref=e36] [cursor=pointer]:
+          - /url: /courses
+        - link "Masterclass Courses >" [ref=e37] [cursor=pointer]:
+          - /url: /courses/category/masterclass
+      - generic [ref=e40]:
+        - generic [ref=e41]:
+          - heading "New to Web Dev?" [level=3] [ref=e42]
+          - paragraph [ref=e43]:
+            - text: We have you covered! Get up to speed quickly with HTML, CSS, JavaScript & TypeScript by grabbing the
+            - link "New Coder bundle for just $10" [ref=e44] [cursor=pointer]:
+              - /url: /p/new-coder-bundle
+            - text: ", normally $21 when bought separately!"
+          - link "Learn More >" [ref=e45] [cursor=pointer]:
+            - /url: /p/new-coder-bundle
+          - paragraph [ref=e46]:
+            - text: You can also check our 🎯
+            - link "New Developer Roadmap" [ref=e47] [cursor=pointer]:
+              - /url: /p/new-developer-roadmap
+            - text: to help you decide what to learn next, or check out our most ❤️
+            - link "popular courses" [ref=e48] [cursor=pointer]:
+              - /url: "#popular-courses-section"
+            - text: down below.
+        - img "html & css course image" [ref=e49]
+      - generic [ref=e51]:
+        - heading "Welcome to the Coding Dojo" [level=3] [ref=e52]
+        - paragraph [ref=e53]: Where aspiring coding ninjas train in the art of web development.
+        - list [ref=e55]:
+          - listitem [ref=e56]:
+            - img [ref=e57]
+          - listitem [ref=e58]:
+            - img [ref=e59]
+          - listitem [ref=e60]:
+            - img [ref=e61]
+          - listitem [ref=e62]:
+            - img [ref=e63]
+          - listitem [ref=e64]:
+            - img [ref=e65]
+          - listitem [ref=e66]:
+            - img [ref=e67]
+          - listitem [ref=e68]:
+            - img [ref=e69]
+          - listitem [ref=e70]:
+            - img [ref=e71]
+          - listitem [ref=e72]:
+            - img [ref=e73]
+          - listitem [ref=e74]:
+            - img [ref=e75]
+          - listitem [ref=e76]:
+            - img [ref=e77]
+          - listitem [ref=e78]:
+            - img [ref=e79]
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - heading "Become a Full-Stack Nuxt Ninja" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Learn how to become a full-stack Nuxt developer by grabbing the Full-Stack Nuxt course bundle, including how to integrate Pinia, a Firestore database and Firebase authentication 🧠
+          - link "Start Learning >" [ref=e86] [cursor=pointer]:
+            - /url: /p/full-stack-nuxt-bundle
+          - paragraph [ref=e87]:
+            - text: This bundle contains 6 courses for
+            - strong [ref=e88]: just $8
+            - text: ", compared to $18 if bought separately 🤯"
+        - img "html & css course image" [ref=e89]
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - paragraph [ref=e95]
+          - paragraph [ref=e97]
+        - iframe [ref=e100]:
+          - alert [ref=f2e2]
+      - generic [ref=e102]:
+        - generic [ref=e103]:
+          - img "net ninja pro logo" [ref=e104]
+          - paragraph [ref=e105]:
+            - text: Get instant access to
+            - strong [ref=e106]: Every Single Course
+            - text: by subscribing to
+            - generic [ref=e107]:
+              - text: Net Ninja Pro for just
+              - strong [ref=e108]: $9/month
+            - text: .
+          - link "Join Now >" [ref=e110] [cursor=pointer]:
+            - /url: https://sso.teachable.com/secure/925908/checkout/3021318/net-ninja-pro
+        - generic [ref=e111]:
+          - paragraph [ref=e112]:
+            - strong [ref=e113]: First month HALF PRICE with promo code NEWNINJA
+          - paragraph [ref=e114]: That's a whole month of goodness for the price of a 🍕
+      - generic [ref=e116]:
+        - heading "❤️ Popular Courses" [level=4] [ref=e118]:
+          - text: ❤️
+          - strong [ref=e119]: Popular Courses
+        - generic [ref=e120]:
+          - link "Net Ninja Pro Access all courses in the Net Ninja Pro library - Including all Masterclass Courses, all Pro-Exclusive courses, and early access to every free course too. 116 Course Bundle $9/month" [ref=e122] [cursor=pointer]:
+            - /url: /p/net-ninja-pro
+            - generic [ref=e124]:
+              - heading "Net Ninja Pro" [level=3] [ref=e125]
+              - text: "Your progress:"
+              - heading "Access all courses in the Net Ninja Pro library - Including all Masterclass Courses, all Pro-Exclusive courses, and early access to every free course too." [level=4] [ref=e126]
+              - generic [ref=e127]:
+                - paragraph [ref=e128]: 116 Course Bundle
+                - paragraph [ref=e129]: $9/month
+          - link "Claude Code Masterclass Master AI-driven development with Claude Code & supercharge your productivity. Net Ninja (Shaun) Net Ninja (Shaun) $15" [ref=e131] [cursor=pointer]:
+            - /url: /p/claude-code-masterclass
+            - generic [ref=e133]:
+              - heading "Claude Code Masterclass" [level=3] [ref=e134]
+              - text: "Your progress:"
+              - heading "Master AI-driven development with Claude Code & supercharge your productivity." [level=4] [ref=e135]
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - img "Net Ninja (Shaun)" [ref=e138]
+                  - paragraph [ref=e139]: Net Ninja (Shaun)
+                - paragraph [ref=e140]: $15
+          - link "Flutter Masterclass Learn how to make Flutter Applications like a ninja (from scratch). Net Ninja (Shaun) Net Ninja (Shaun) $10" [ref=e142] [cursor=pointer]:
+            - /url: /p/flutter-masterclass
+            - generic [ref=e144]:
+              - heading "Flutter Masterclass" [level=3] [ref=e145]
+              - text: "Your progress:"
+              - heading "Learn how to make Flutter Applications like a ninja (from scratch)." [level=4] [ref=e146]
+              - generic [ref=e147]:
+                - generic [ref=e148]:
+                  - img "Net Ninja (Shaun)" [ref=e149]
+                  - paragraph [ref=e150]: Net Ninja (Shaun)
+                - paragraph [ref=e151]: $10
+          - text: "Your progress:"
+        - link "View All Courses" [ref=e153] [cursor=pointer]:
+          - /url: /courses
+          - button "View All Courses" [ref=e154]
+      - generic [ref=e156]:
+        - heading "🔥 New Courses" [level=4] [ref=e158]:
+          - text: 🔥
+          - strong [ref=e159]: New Courses
+        - generic [ref=e160]:
+          - link "Claude Code Masterclass Master AI-driven development with Claude Code & supercharge your productivity. Net Ninja (Shaun) Net Ninja (Shaun) $15" [ref=e162] [cursor=pointer]:
+            - /url: /p/claude-code-masterclass
+            - generic [ref=e164]:
+              - heading "Claude Code Masterclass" [level=3] [ref=e165]
+              - text: "Your progress:"
+              - heading "Master AI-driven development with Claude Code & supercharge your productivity." [level=4] [ref=e166]
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - img "Net Ninja (Shaun)" [ref=e169]
+                  - paragraph [ref=e170]: Net Ninja (Shaun)
+                - paragraph [ref=e171]: $15
+          - link "Git & GitHub Masterclass Learn how to implement Git & GitHub into your development workflows like a pro. Net Ninja (Shaun) Net Ninja (Shaun) $10" [ref=e173] [cursor=pointer]:
+            - /url: /p/git-github-masterclass
+            - generic [ref=e175]:
+              - heading "Git & GitHub Masterclass" [level=3] [ref=e176]
+              - text: "Your progress:"
+              - heading "Learn how to implement Git & GitHub into your development workflows like a pro." [level=4] [ref=e177]
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - img "Net Ninja (Shaun)" [ref=e180]
+                  - paragraph [ref=e181]: Net Ninja (Shaun)
+                - paragraph [ref=e182]: $10
+          - link "Testing Next.js (React) Apps Learn how to test React-based applications (e.g. Next.js) using Vitest and React Testing Library. Net Ninja (Shaun) Net Ninja (Shaun) $7" [ref=e184] [cursor=pointer]:
+            - /url: /p/testing-next-js-react-apps
+            - generic [ref=e186]:
+              - heading "Testing Next.js (React) Apps" [level=3] [ref=e187]
+              - text: "Your progress:"
+              - heading "Learn how to test React-based applications (e.g. Next.js) using Vitest and React Testing Library." [level=4] [ref=e188]
+              - generic [ref=e189]:
+                - generic [ref=e190]:
+                  - img "Net Ninja (Shaun)" [ref=e191]
+                  - paragraph [ref=e192]: Net Ninja (Shaun)
+                - paragraph [ref=e193]: $7
+          - text: "Your progress:"
+        - link "View All Courses" [ref=e195] [cursor=pointer]:
+          - /url: /courses
+          - button "View All Courses" [ref=e196]
+      - generic [ref=e198]:
+        - heading "Net Ninja Pro" [level=2] [ref=e199]
+        - paragraph [ref=e200]: Get instant access to all courses with a Net Ninja Pro membership.
+        - generic [ref=e201]:
+          - generic [ref=e203]:
+            - generic [ref=e204]: Most popular
+            - heading "Monthly Membership" [level=3] [ref=e205]
+            - paragraph [ref=e206]: only$9/mo
+            - list [ref=e207]:
+              - listitem [ref=e208]: whatshotInstant access to all courses
+              - listitem [ref=e209]: whatshotEarly access to new courses
+              - listitem [ref=e210]: whatshotAccess to premium & Udemy courses
+              - listitem [ref=e211]: whatshotCancel at any time
+            - link "Join Now" [ref=e212] [cursor=pointer]:
+              - /url: https://net-ninja-pro.teachable.com/purchase?product_id=3021318
+          - generic [ref=e214]:
+            - heading "Yearly Membership" [level=3] [ref=e215]
+            - paragraph [ref=e216]: only$79/yr
+            - list [ref=e217]:
+              - listitem [ref=e218]: whatshotInstant access to all courses
+              - listitem [ref=e219]: whatshotEarly access to new courses
+              - listitem [ref=e220]: whatshotAccess to premium & Udemy courses
+              - listitem [ref=e221]: whatshotSave over 25%!
+            - link "Join Now" [ref=e222] [cursor=pointer]:
+              - /url: https://net-ninja-pro.teachable.com/purchase?product_id=3021316
+        - paragraph [ref=e223]:
+          - text: Get your first month half price when you use the code
+          - strong [ref=e224]: NEWNINJA
+          - text: . (monthly plan only).
+      - generic [ref=e226]:
+        - heading "What Other Students (Ninjas) Say..." [level=3] [ref=e227]
+        - generic [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]:
+              - img "ninja-head" [ref=e231]
+              - generic [ref=e232]:
+                - paragraph [ref=e233]: Brian.
+                - generic [ref=e234]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e236]: Shaun's ability to explain complex programming in an approachable, easy to understand, and fun way is truly unmatched by any youtuber or even any college professor I've ever had. He is a treasure.
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - img "ninja-head" [ref=e239]
+              - generic [ref=e240]:
+                - paragraph [ref=e241]: Istan L.
+                - generic [ref=e242]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e244]: Shaun is a genuine teacher! He makes complex subjects easy to understand, and learning subjects I previously struggled with feels like playtime with him.
+          - generic [ref=e245]:
+            - generic [ref=e246]:
+              - img "ninja-head" [ref=e247]
+              - generic [ref=e248]:
+                - paragraph [ref=e249]: Jim W.
+                - generic [ref=e250]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e252]: The explanations are well thought out and are presented in a logical progression, at a comfortable pace. Shaun is one of the best instructors that I've ever experienced.
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - img "ninja-head" [ref=e255]
+              - generic [ref=e256]:
+                - paragraph [ref=e257]: Paulo N.
+                - generic [ref=e258]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e260]: Clear concise and straightforward instructions. The instructor does a great job of making the lessons fun and enjoyable while keeping up with the learning objectives.
+          - generic [ref=e261]:
+            - generic [ref=e262]:
+              - img "ninja-head" [ref=e263]
+              - generic [ref=e264]:
+                - paragraph [ref=e265]: Сюлея.
+                - generic [ref=e266]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e268]: Whenever I can't understand something in the programming courses I take or at uni, I turn to The Net Ninja - and whatever I need to know, he has an awesome and understandable video on it. So thank you! You're the best!
+          - generic [ref=e269]:
+            - generic [ref=e270]:
+              - img "ninja-head" [ref=e271]
+              - generic [ref=e272]:
+                - paragraph [ref=e273]: Samha.
+                - generic [ref=e274]: ⭐⭐⭐⭐⭐
+            - paragraph [ref=e276]: Net Ninja > Netflix 🤤
+        - paragraph [ref=e277]:
+          - text: But don't just take their word for it. Check out
+          - link "Net Ninja on YouTube" [ref=e278] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+          - text: for some free coding tutorials yourself 📺
+      - generic [ref=e280]:
+        - heading "Want to License our Courses?" [level=3] [ref=e281]
+        - paragraph [ref=e282]:
+          - text: Get in touch at
+          - strong [ref=e283]: licensing@netninja.dev
+          - text: to talk about it 👋
+  - contentinfo [ref=e284]:
+    - generic [ref=e287]:
+      - list [ref=e288]:
+        - listitem [ref=e289]: © Net Ninja 2026
+        - listitem [ref=e290]:
+          - link "Net Ninja on Twitter" [ref=e291] [cursor=pointer]:
+            - /url: https://twitter.com/thenetninjauk
+        - listitem [ref=e292]:
+          - link "Net Ninja on YouTube" [ref=e293] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
+        - listitem [ref=e294]:
+          - link "Get Net Ninja Pro" [ref=e295] [cursor=pointer]:
+            - /url: https://net-ninja-pro.teachable.com/p/net-ninja-pro/
+      - list [ref=e296]:
+        - listitem [ref=e297]:
+          - link "Terms of Use" [ref=e298] [cursor=pointer]:
+            - /url: /p/terms
+        - listitem [ref=e299]:
+          - link "Privacy Policy" [ref=e300] [cursor=pointer]:
+            - /url: /p/privacy
